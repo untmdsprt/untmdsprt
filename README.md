@@ -3,7 +3,7 @@
 Currently a work in progress to relearn markdown code.
 
 
-![https://www.linkedin.com/in/jennyeadams/](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
+![https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue](https://www.linkedin.com/in/jennyeadams/)
 
 
 <!--
