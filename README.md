@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue
+
 <!--
 **untmdsprt/untmdsprt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
