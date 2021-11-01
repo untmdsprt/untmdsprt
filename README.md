@@ -4,6 +4,10 @@ Currently a work in progress to relearn markdown code.
 
 
 [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jennyeadams/)
+[![Mail Badge](https://img.shields.io/badge/Gmail-c0392b?style=plastic&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:untmdsprt@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-e74c3c?style=plastic&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn-S4jL4HJlqNTOyaBczIvQ)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/fembassist)
+
 
 
 <!--
