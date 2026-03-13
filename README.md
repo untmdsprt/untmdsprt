@@ -1,11 +1,13 @@
-### Hi there 👋
+## Hi, I'm Jenny
 
-Currently a work in progress to relearn markdown code.
+I'm an IT professional with over 10 years of experience in help desk and technical support. After years of troubleshooting systems and supporting users, I developed a strong interest in automating repetitive tasks and improving how IT operations run behind the scenes.
+
+I'm currently expanding my skills in Python and AWS, focusing on automation, scripting, and cloud fundamentals. My goal is to build practical tools that solve real-world IT problems and reduce manual support work.
+
+This GitHub is where I document the projects, labs, and experiments I'm building as I transition from traditional IT support into automation and cloud-focused roles.
 
 
 [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jennyeadams/)
-[![Mail Badge](https://img.shields.io/badge/Gmail-c0392b?style=plastic&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:untmdsprt@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-e74c3c?style=plastic&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn-S4jL4HJlqNTOyaBczIvQ)
 
 
 
