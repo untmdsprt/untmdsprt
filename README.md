@@ -1,13 +1,46 @@
-## Hi, I'm Jenny
+# Hi, I'm Jenny 👋
 
-I'm an IT professional with over 10 years of experience in help desk and technical support. After years of troubleshooting systems and supporting users, I've developed a strong interest in automating repetitive tasks and improving how IT operations run behind the scenes.
+I'm an IT professional with 10+ years of experience in help desk and technical support. After years of troubleshooting systems and supporting users, I became interested in automating repetitive tasks and improving IT workflows.
 
-I'm currently expanding my skills in Python and AWS, focusing on automation, scripting, and cloud fundamentals. My goal is to build practical tools that solve real-world IT problems and reduce manual support work.
+I'm currently expanding my skills in **Python automation and AWS cloud technologies**, building practical tools that solve real-world IT problems.
 
-This GitHub is where I document the projects, labs, and experiments I'm building as I transition from traditional IT support into automation and cloud-focused roles.
+This GitHub documents the projects, labs, and experiments I'm creating as I transition from **IT support → automation and cloud-focused roles.**
+
+---
+
+## 🔧 Current Focus
+
+* Python scripting and automation
+* AWS cloud fundamentals
+* Building practical IT tools
+* Documenting real-world projects
+
+---
+
+## 🧰 Technologies & Tools
+
+* Python
+* AWS
+* Git & GitHub
+* Windows / Linux troubleshooting
+* IT support & systems diagnostics
+
+---
+
+## 🚧 Current Projects
 
 
-[![LinkedIn profile](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jennyeadams/)
+
+---
+
+## 📚 Currently Learning
+
+---
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennyeadams/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
 
