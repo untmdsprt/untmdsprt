@@ -1,6 +1,6 @@
 ## Hi, I'm Jenny
 
-I'm an IT professional with over 10 years of experience in help desk and technical support. After years of troubleshooting systems and supporting users, I developed a strong interest in automating repetitive tasks and improving how IT operations run behind the scenes.
+I'm an IT professional with over 10 years of experience in help desk and technical support. After years of troubleshooting systems and supporting users, I've developed a strong interest in automating repetitive tasks and improving how IT operations run behind the scenes.
 
 I'm currently expanding my skills in Python and AWS, focusing on automation, scripting, and cloud fundamentals. My goal is to build practical tools that solve real-world IT problems and reduce manual support work.
 
